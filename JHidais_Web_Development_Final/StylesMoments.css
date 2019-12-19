@@ -1,0 +1,13 @@
+Body{ 
+    font-family: Helvetica;
+    Background-color: crimson;
+    text-align:center;
+}
+h1{
+    color: antiquewhite;
+    font-size: 110px;
+}
+p{
+    color:antiquewhite;
+    font-size: 18px
+}

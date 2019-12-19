@@ -1,0 +1,13 @@
+Body{ 
+    font-family: Helvetica;
+    Background-color: black;
+    text-align:center;
+}
+h1{
+    color: crimson;
+    font-size: 110px;
+}
+p{
+    color:crimson;
+    font-size: 18px
+}
